@@ -1,0 +1,37 @@
+{
+  "designers": [
+    {
+      "name": "Jean-Paul Gaultier",
+      "bio": "Designer français iconique",
+      "image": "https://dwg.us/ecommerce/pc/catalog/Comelit_Temp.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Coco Chanel",
+      "bio": "Fondatrice de la maison Chanel",
+      "image": "/placeholder.svg",
+      "id": "2"
+    }
+  ],
+  "collections": [
+    {
+      "name": "Printemps 2024",
+      "description": "Collection printemps-été",
+      "designerId": "1",
+      "season": "Printemps",
+      "year": 2024,
+      "id": "1"
+    }
+  ],
+  "clothes": [
+    {
+      "id": "1",
+      "name": "Robe Haute Couture",
+      "description": "Robe en soie avec broderies",
+      "collectionId": "1",
+      "image": "/placeholder.svg",
+      "likes": 0,
+      "price": 2499.99
+    }
+  ]
+}
